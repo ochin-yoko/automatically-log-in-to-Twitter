@@ -10,4 +10,4 @@ We are testing on Chrome.<br><br>
 The version must match the version of Chrome that you are using.<br>
 Otherwise, selenium may not work.<br><br>
 ```python -m pip install chromedriver-binary==76.0.3809.68.0```<br><br>
-③Finally, change the USERNAME and PASSWORD in twitter.py to those of your own account.<br>
+③Finally, change the USERNAME, PASSWORD and PATH in loginTwitter.py to your own.
